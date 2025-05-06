@@ -1,0 +1,9 @@
+
+Python 3.11
+streamlit
+spacy
+numpy
+pillow
+base64
+pandas
+
