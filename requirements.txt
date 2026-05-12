@@ -1,7 +1,5 @@
 streamlit
+pandas
 spacy
 numpy
-pillow
-base64
-pandas
-
+scikit-learn
